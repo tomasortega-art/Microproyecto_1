@@ -1,0 +1,2 @@
+Declaración de uso de Inteligencia Artificial
+En el desarrollo de este microproyecto se utilizó asistencia de IA como apoyo técnico para la estructuración del proyecto, configuración de Git/GitHub y generación de código VHDL base.
